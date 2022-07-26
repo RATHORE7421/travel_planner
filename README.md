@@ -3,7 +3,7 @@
 * A new problem statement is generated and the project gives the optimal solution about the problem in a visually appealling manner.
 * Implemented various graph algorithms.
 
-[Website Link](https://determined-goodall-9d99fe.netlify.app/)
+[Website Link](https://62dffa67b1414200ac4a467b--lucky-cajeta-fcafb7.netlify.app/)
 
 ![Images](/imgs/img1.png)
 ![Images](/imgs/img2.png)
