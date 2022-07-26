@@ -5,5 +5,5 @@
 
 [Website Link](https://62dffa67b1414200ac4a467b--lucky-cajeta-fcafb7.netlify.app/)
 
-![Images](/imgs/img1.png)
-![Images](/imgs/img2.png)
+![Images](/images/img_1.jpeg)
+![Images](/images/img_2.jpeg)
