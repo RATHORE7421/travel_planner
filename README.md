@@ -5,5 +5,5 @@
 
 [Website Link](https://determined-goodall-9d99fe.netlify.app/)
 
-![Images](/imgs/img1.png)
-![Images](/imgs/img2.png)
+![Images](/images/img_1.jpeg)
+![Images](/images/img_2.jpeg)
