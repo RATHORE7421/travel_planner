@@ -1,0 +1,19 @@
+{
+  "name": "travel-planner",
+  "version": "1.0.0",
+  "description": "Travel Plan Easily",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RATHORE7421/travel_planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RATHORE7421/travel_planner/issues"
+  },
+  "homepage": "https://github.com/RATHORE7421/travel_planner#readme"
+}
